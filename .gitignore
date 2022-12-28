@@ -10,6 +10,13 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+# Ignore
+MTEC 2120 Final Project/Assests/Textures/GrassUV01.png
+MTEC 2120 Final Project/Assests/Textures/GrassUV01_N.png
+MTEC 2120 Final Project/Assests/Textures/GrassUV02.png
+MTEC 2120 Final Project/Assests/Textures/GrassUV02_N.png
+MTEC 2120 Final Project/Library/ArtifactDB
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
